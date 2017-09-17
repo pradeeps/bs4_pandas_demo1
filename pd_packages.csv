@@ -1,0 +1,23 @@
+,Package Name,License Type,Description
+0,beautifulsoup4,MIT,Screen-scraping library
+1,bs4,,Dummy package for Beautiful Soup
+2,certifi,MPL-2.0,Python package for providing Mozilla's CA Bundle.
+3,chardet,LGPL,Universal encoding detector for Python 2 and 3
+4,get,UNKNOWN,http GET dict
+5,idna,BSD-like,Internationalized Domain Names in Applications (IDNA)
+6,numpy,BSD,"NumPy: array processing for numbers, strings, records, and objects."
+7,pandas,BSD,"Powerful data structures for data analysis, time series,and statistics"
+8,pip,MIT,The PyPA recommended tool for installing Python packages.
+9,post,UNKNOWN,http POST dict
+10,public,,"@public decorator, public(*objects) function - add objects names to __all__"
+11,python-dateutil,Simplified BSD,Extensions to the standard Python datetime module
+12,pytz,MIT,"World timezone definitions, modern and historical"
+13,query-string,UNKNOWN,query_string(string) function - get url query string dict
+14,request,UNKNOWN,http REQUEST (GET+POST) dict
+15,requests,Apache 2.0,Python HTTP for Humans.
+16,setupfiles,UNKNOWN,distutils/setuptools replacement
+17,setuptools,,"Easily download, build, install, upgrade, and uninstall Python packages"
+18,simplejson,MIT License,"Simple, fast, extensible JSON encoder/decoder for Python"
+19,six,MIT,Python 2 and 3 compatibility utilities
+20,urllib3,MIT,"HTTP library with thread-safe connection pooling, file post, and more."
+21,wheel,MIT,A built-package format for Python.
