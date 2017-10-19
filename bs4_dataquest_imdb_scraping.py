@@ -31,6 +31,7 @@ weather = pd.DataFrame(
 	})
 
 print weather
+
 temp_nums = weather["Temperature"].str.extract("(?P<temp_num>\d+)", expand=False)
 weather["temp_num"] = temp_nums.astype('int')
 

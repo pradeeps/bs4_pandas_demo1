@@ -1,4 +1,4 @@
-,Package Name,License Type,Description
+,Package_Name,License_Type,Description
 0,beautifulsoup4,MIT,Screen-scraping library
 1,bs4,,Dummy package for Beautiful Soup
 2,certifi,MPL-2.0,Python package for providing Mozilla's CA Bundle.
